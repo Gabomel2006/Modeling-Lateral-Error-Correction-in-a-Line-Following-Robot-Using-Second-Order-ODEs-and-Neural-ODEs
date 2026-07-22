@@ -1,6 +1,7 @@
 # Modeling Lateral Error Correction in a Line-Following Robot Using Second-Order ODEs and Neural ODEs
 
 **Author:** Gabriel Melgarejo
+
 **Course:** Math 2A — Differential Equations, Foothill College
 
 ## Overview
@@ -41,8 +42,8 @@ Requires MATLAB with base plotting/export capabilities (no special toolboxes nee
 
 ```matlab
 % From the matlab/ directory
-run('particular_solution.m')
-run('underdamped_prediction.m')
+run('Code_of_Graph_of_The_Particular_Solution')
+run('Code_of_Underdamped_Graph_Verification')
 ```
 
 Each script generates a `.png` plot of the solution curve.
